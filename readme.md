@@ -3,6 +3,8 @@
 ## Description:
 The Shotgun Spread Geocoder App (built on Streamlit) allows users to upload a JSON file containing store location data. The app automatically retrieves details for each store, including latitude, longitude, website, and other relevant information, using the Google Maps API. The app outputs an updated JSON file for download.
 
+The outputted file is compatible with [jQuery-Store-Locator-Plugin](https://github.com/bjorn2404/jQuery-Store-Locator-Plugin)'s expected input. Upload a JSON file with store location data, and the app will automatically retrieve each store’s address details, including latitude, longitude, website, and other relevant information. It then generates a downloadable updated_locations.json file with the enhanced data for easy use.
+
 ## Features
 Upload a JSON file with store location data.
 Automatically assigns missing store IDs.
