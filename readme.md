@@ -29,8 +29,8 @@ The app uses Python's logging module to output logs to the console for actions l
 
 ### Create a .streamlit directory
 Place a secrets.toml file inside of it containing:
-```[general] 
-google_maps_api_key = "YOURAPIKEY"```
+```[general]``` 
+```google_maps_api_key = "YOURAPIKEY"```
 
 ## Running the app
 
