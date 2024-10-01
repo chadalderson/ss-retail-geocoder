@@ -42,3 +42,6 @@ There is a locations.json in the app's root directory that contains a starter/te
 
 ### Download your data
 Once your source file is uploaded the app will process your data and output a new updated_locations.json in a directory of your choice. This file is compatible with [https://github.com/bjorn2404/jQuery-Store-Locator-Plugin](jQuery-Store-Locator-Plugin)'s expected input.
+
+## Demo
+[https://www.youtube.com/watch?v=6vxSPwmrpGQ](https://www.youtube.com/watch?v=6vxSPwmrpGQ)
