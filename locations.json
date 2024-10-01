@@ -1,0 +1,303 @@
+[
+    {
+      "name": "Granzella's Restaurant",
+      "address": "451 6th St.",
+      "city": "Williams",
+      "state": "CA",
+      "postal": "95987"
+    },
+    {
+      "name": "Al Mancasola's Grocery Market",
+      "address": "4525 Shasta Dam Blvd #9417",
+      "city": "Shasta Lake",
+      "state": "CA",
+      "postal": "96019"
+    },
+    {
+      "name": "Anchor Bay Store",
+      "address": "35513 CA-1",
+      "city": "Gualala",
+      "state": "CA",
+      "postal": "95445"
+    },
+    {
+      "name": "Big Al's Market",
+      "address": "422 Main St",
+      "city": "Wheatland",
+      "state": "CA",
+      "postal": "95692"
+    },
+    {
+      "name": "Brato's Riviera Food",
+      "address": "10200 Fairway Dr",
+      "city": "Kelseyville",
+      "state": "CA",
+      "postal": ""
+    },
+    {
+      "name": "Carol's Market & Deli",
+      "address": "235 Taylor Rd",
+      "city": "Newcastle",
+      "state": "CA",
+      "postal": "95658"
+    },
+    {
+      "name": "Evergreen Market",
+      "address": "427 Crescent St",
+      "city": "Greenville",
+      "state": "CA",
+      "postal": "95947"
+    },
+    {
+      "name": "Foods Etc.",
+      "address": "15290 Lakeshore Dr",
+      "city": "Clearlake",
+      "state": "CA",
+      "postal": "95422"
+    },
+    {
+      "name": "Forks Ranch Market",
+      "address": "3152 N State St",
+      "city": "Ukiah",
+      "state": "CA",
+      "postal": "95482"
+    },
+    {
+      "name": "Four Corners Market",
+      "address": "1077 N Main St",
+      "city": "Alturas",
+      "state": "CA",
+      "postal": "96101"
+    },
+    {
+      "name": "Gold Eagle Market #1",
+      "address": "16823 Willow Glen Rd",
+      "city": "Browns Valley",
+      "state": "CA",
+      "postal": "95919"
+    },
+    {
+      "name": "Gold Eagle Market #2",
+      "address": "11269 Loma Rica Road",
+      "city": "Loma Rica",
+      "state": "CA",
+      "postal": "95901"
+    },
+    {
+      "name": "Hardester's Market-Serv",
+      "address": "21088 Calistoga Road",
+      "city": "Middletown",
+      "state": "CA",
+      "postal": "95461"
+    },
+    {
+      "name": "Hardester's Market #3 HV",
+      "address": "18983 Hartmann Road",
+      "city": "Hidden Valley Lake",
+      "state": "CA",
+      "postal": "95467"
+    },
+    {
+      "name": "Ikeda's Market",
+      "address": "13500 Lincoln Way",
+      "city": "Auburn",
+      "state": "CA",
+      "postal": ""
+    },
+    {
+      "name": "Lakeside Market & Gas",
+      "address": "5250 Olive Hwy B",
+      "city": "Oroville",
+      "state": "CA",
+      "postal": "95966"
+    },
+    {
+      "name": "Lakeview Supermarket & Deli",
+      "address": "6084 CA-20",
+      "city": "Lucerne",
+      "state": "CA",
+      "postal": "95458"
+    },
+    {
+      "name": "Lakeshore Villa Market",
+      "address": "20750 Lakeshore Drive",
+      "city": "Lakehead",
+      "state": "CA",
+      "postal": "96051"
+    },
+    {
+      "name": "Lorenzo's Town & Country",
+      "address": "121 E Grant Ave",
+      "city": "Winters",
+      "state": "CA",
+      "postal": "95694"
+    },
+    {
+      "name": "Oaks Red & White Store",
+      "address": "12580 CA-20",
+      "city": "Clearlake Oaks",
+      "state": "CA",
+      "postal": "95423"
+    },
+    {
+      "name": "Ranch Market - Grocery",
+      "address": "1912 Covillaud St",
+      "city": "Marysville",
+      "state": "CA",
+      "postal": "95901"
+    },
+    {
+      "name": "South Butte Market & Meats",
+      "address": "7803 S Butte Rd",
+      "city": "Sutter",
+      "state": "CA",
+      "postal": "95982"
+    },
+    {
+      "name": "SPD Market #1",
+      "address": "735 Zion Street",
+      "city": "Nevada City",
+      "state": "CA",
+      "postal": "95959"
+    },
+    {
+      "name": "SPD Market #2",
+      "address": "129 W McKnight Way",
+      "city": "Grass Valley",
+      "state": "CA",
+      "postal": "95949"
+    },
+    {
+      "name": "S&S Produce",
+      "address": "1924 Mangrove Ave.",
+      "city": "Chico",
+      "state": "CA",
+      "postal": "95926"
+    },
+    {
+      "name": "Susanville Super Market",
+      "address": "50 Grand Avenue",
+      "city": "Susanville",
+      "state": "CA",
+      "postal": "96130"
+    },
+    {
+      "name": "Upper Lake Grocery",
+      "address": "160 CA-20",
+      "city": "Upper Lake",
+      "state": "CA",
+      "postal": "95485"
+    },
+    {
+      "name": "Wagon Wheel Market",
+      "address": "4607 Olive Hwy",
+      "city": "Oroville",
+      "state": "CA",
+      "postal": "95966"
+    },
+    {
+      "name": "Holiday Market - Cottonwood",
+      "address": "20635 Gas Point Rd.",
+      "city": "Cottonwood",
+      "state": "CA",
+      "postal": "96022"
+    },
+    {
+      "name": "Holiday Market - Redding (Hartnell Ave.)",
+      "address": "2455 Hartnell Ave.",
+      "city": "Redding",
+      "state": "CA",
+      "postal": "96002"
+    },
+    {
+      "name": "Holiday Market - Palo Cedro",
+      "address": "9350 Deschutes Rd.",
+      "city": "Palo Cedro",
+      "state": "CA",
+      "postal": "96073"
+    },
+    {
+      "name": "Holiday Market - Redding (Placer St.)",
+      "address": "3315 Placer St.",
+      "city": "Redding",
+      "state": "CA",
+      "postal": "96001"
+    },
+    {
+      "name": "Holiday Market - Weaverville",
+      "address": "1665 South Main St.",
+      "city": "Weaverville",
+      "state": "CA",
+      "postal": "96093"
+    },
+    {
+      "name": "Holiday Market - Chester",
+      "address": "271 Main St.",
+      "city": "Chester",
+      "state": "CA",
+      "postal": "96020"
+    },
+    {
+      "name": "Holiday Market - Lake of the Pines",
+      "address": "21656 Higgins Road",
+      "city": "Grass Valley",
+      "state": "CA",
+      "postal": "95949"
+    },
+    {
+      "name": "Holiday Market - Meadow Vista",
+      "address": "16981 Placer Hills Rd.",
+      "city": "Meadow Vista",
+      "state": "CA",
+      "postal": "95722"
+    },
+    {
+      "name": "Holiday Market - Alturas",
+      "address": "1200 W. 12th St.",
+      "city": "Alturas",
+      "state": "CA",
+      "postal": "96101"
+    },
+    {
+      "name": "Holiday Market - Cool",
+      "address": "5030 Ellinghouse Dr.",
+      "city": "Cool",
+      "state": "CA",
+      "postal": "95614"
+    },
+    {
+      "name": "Holiday Market - Klamath Falls",
+      "address": "211 North 8th St.",
+      "city": "Klamath Falls",
+      "state": "OR",
+      "postal": "97601"
+    },
+    {
+      "name": "Holiday Market - Placerville",
+      "address": "4653 Mt. Aukum Rd.",
+      "city": "Placerville",
+      "state": "CA",
+      "postal": "95667"
+    },
+    {
+      "name": "Holiday Market - S. Lake Tahoe",
+      "address": "2977 US-50",
+      "city": "South Lake Tahoe",
+      "state": "CA",
+      "postal": "96150"
+    },
+    {
+      "name": "Holiday Market - Penn Valley",
+      "address": "11324 Pleasant Valley Rd.",
+      "city": "Penn Valley",
+      "state": "CA",
+      "postal": "95946"
+    },
+    {
+      "name": "Holiday Market - Magalia",
+      "address": "14001 Lakeridge Circle",
+      "city": "Magalia",
+      "state": "CA",
+      "postal": "95954"
+    }
+  ]  
