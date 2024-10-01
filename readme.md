@@ -45,4 +45,4 @@ Once your source file is uploaded the app will process your data and output a ne
 
 https://github.com/chadalderson/ss-retail-geocoder.git
 
-git@github.com:chadalderson/ss-retail-geocoder.git est
+git@github.com:chadalderson/ss-retail-geocoder.git
