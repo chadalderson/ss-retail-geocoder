@@ -35,7 +35,7 @@ def log_error(message):
 
 def main():
     st.title("Shotgun Spread Geocoder App")
-    st.write("Upload a JSON file with store location data, and the app will automatically retrieve each store’s address details, including latitude, longitude, website, and other relevant information. It then generates a downloadable updated_locations.json file with the enhanced data for easy use.")
+    st.write("The outputted file is compatible with [jQuery-Store-Locator-Plugin](https://github.com/bjorn2404/jQuery-Store-Locator-Plugin)'s expected input. Upload a JSON file with store location data, and the app will automatically retrieve each store’s address details, including latitude, longitude, website, and other relevant information. It then generates a downloadable updated_locations.json file with the enhanced data for easy use.")
 
     # File uploader widget
     uploaded_file = st.file_uploader("Choose a JSON file", type="json")

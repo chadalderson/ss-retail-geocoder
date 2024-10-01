@@ -42,7 +42,3 @@ There is a locations.json in the app's root directory that contains a starter/te
 
 ### Download your data
 Once your source file is uploaded the app will process your data and output a new updated_locations.json in a directory of your choice. This file is compatible with [https://github.com/bjorn2404/jQuery-Store-Locator-Plugin](jQuery-Store-Locator-Plugin)'s expected input.
-
-https://github.com/chadalderson/ss-retail-geocoder.git
-
-git@github.com:chadalderson/ss-retail-geocoder.git
